@@ -1,0 +1,14 @@
+body {
+  font-family: "Nunito", sans-serif;
+}
+.header-table {
+  width: 50%;
+  height: 800px;
+  background: url(../img/header-table.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -1;
+}
